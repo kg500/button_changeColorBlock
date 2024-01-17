@@ -1,0 +1,15 @@
+body{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.buton{
+    margin-top: 50px;
+    font-size: 40px;
+}
+.block{
+    margin-top: 100px;
+    width: 400px;
+    height: 300px;
+    background-color: black;
+}
